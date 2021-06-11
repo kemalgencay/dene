@@ -1,0 +1,17 @@
+{
+  "name": "coding_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "gatsby develop -p 9988 -o"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatsby": "^3.7.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
